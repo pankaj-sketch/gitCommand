@@ -1,0 +1,10 @@
+HOW TO PUSH CODE TO GIT
+
+1.git init
+2.git remote add origin <repo_path>
+3.git add .
+4.git commit -m"first comit"
+5.git branch
+6.git branch name
+7.git checkout opq
+8.git push origin opq
